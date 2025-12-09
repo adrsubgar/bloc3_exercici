@@ -1,2 +1,7 @@
 La vida de Brian
+<<<<<<< HEAD
 Monty Python and the Holy Grail
+=======
+el rey leon
+gru
+>>>>>>> 9a584289daa636502d6befff2468efa9d0c7135c
